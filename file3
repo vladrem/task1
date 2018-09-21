@@ -2,8 +2,6 @@
 using namespace std;
 
 int main() {
-
-	cout << "task1 test";
-	cout << "task1 test2";
+	cout << "Hello, master";
 	return 0;
 }
